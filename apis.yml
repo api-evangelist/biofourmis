@@ -11,6 +11,17 @@ description: 'Biofourmis is a health technology company founded in 2015, with of
   2025. The company markets EMR integration and device-agnostic connectivity to enterprise
   healthcare customers, but publishes no public developer program, API reference or
   machine-readable API contract.'
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 image: https://cdn.prod.website-files.com/641ded6681d1c50b3075e860/641ded6681d1c55e7b75e90c_Biofourmis%20webclip.png
 url: https://raw.githubusercontent.com/api-evangelist/biofourmis/refs/heads/main/apis.yml
 x-type: company
